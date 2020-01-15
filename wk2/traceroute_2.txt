@@ -1,0 +1,10 @@
+Traceroute has started…
+
+traceroute to 159.203.61.229 (159.203.61.229), 64 hops max, 72 byte packets
+ 1  10.4.64.1 (10.4.64.1)  15.953 ms  4.304 ms  3.237 ms
+ 2  198.96.85.3 (198.96.85.3)  4.617 ms  2.902 ms  2.024 ms
+ 3  ut-hub-gbrownc-if-internet.gtanet.ca (205.211.94.173)  3.897 ms  5.838 ms *
+ 4  digitalocean.ip4.torontointernetxchange.net (206.108.35.15)  6.649 ms  6.390 ms  2.792 ms
+ 5  138.197.249.91 (138.197.249.91)  8.307 ms  3.946 ms  3.670 ms
+ 6  * * *
+ 7  159.203.61.229 (159.203.61.229)  5.735 ms *  14.622 ms

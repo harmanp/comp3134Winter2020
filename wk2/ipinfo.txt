@@ -1,0 +1,56 @@
+Checking Domain Name
+
+Domain Name: swiftmedical.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 104.198.170.37
+
+Geolocation: US (United States), VA, Virginia, N/A N/A - Google Maps
+
+
+Domain Name: shopify.ca
+
+Top Level Domain: CA (Canada)
+
+DNS Lookup
+
+IP Address: 35.185.82.132
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+
+Domain Name: youtube.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 172.217.6.206
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+
+Domain Name: in.yahoo.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 72.30.35.10
+
+Geolocation: US (United States), CA, California, 94089 Sunnyvale - Google Maps
+
+
+Domain Name: netflix.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 52.54.154.226
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+

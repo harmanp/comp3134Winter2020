@@ -1,0 +1,12 @@
+(base) Harmanpreets-MacBook-Pro:wk2 harmanpreetkaur$ ping 159.203.61.229
+PING 159.203.61.229 (159.203.61.229): 56 data bytes
+64 bytes from 159.203.61.229: icmp_seq=0 ttl=57 time=25.773 ms
+64 bytes from 159.203.61.229: icmp_seq=1 ttl=57 time=15.555 ms
+64 bytes from 159.203.61.229: icmp_seq=2 ttl=57 time=21.373 ms
+64 bytes from 159.203.61.229: icmp_seq=3 ttl=57 time=20.564 ms
+64 bytes from 159.203.61.229: icmp_seq=4 ttl=57 time=25.872 ms
+^C
+--- 159.203.61.229 ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 15.555/21.827/25.872/3.823 ms
+(base) Harmanpreets-MacBook-Pro:wk2 harmanpreetkaur$ 

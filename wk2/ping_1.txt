@@ -1,0 +1,10 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# ping 72.30.35.10
+PING 72.30.35.10 (72.30.35.10) 56(84) bytes of data.
+64 bytes from 72.30.35.10: icmp_seq=1 ttl=56 time=3.79 ms
+64 bytes from 72.30.35.10: icmp_seq=2 ttl=56 time=3.22 ms
+64 bytes from 72.30.35.10: icmp_seq=3 ttl=56 time=3.24 ms
+64 bytes from 72.30.35.10: icmp_seq=4 ttl=56 time=3.20 ms
+^C
+--- 72.30.35.10 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 3.204/3.365/3.790/0.245 ms
