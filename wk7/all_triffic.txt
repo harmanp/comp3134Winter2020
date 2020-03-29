@@ -1,0 +1,5 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -i any -nn -xx -w all_traffic_20200219_1020.pcap
+tcpdump: listening on any, link-type LINUX_SLL (Linux cooked), capture size 262144 bytes
+^C7 packets captured
+9 packets received by filter
+0 packets dropped by kernel
